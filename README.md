@@ -1,7 +1,7 @@
 # Parse Content-Type Headers
 > Python package for parsing Content-Type HTTP headers
 
-[![PyPI](https://img.shields.io/pypi/v/check-rq?color=blue)](https://pypi.org/project/check-rq/)
+[![PyPI](https://img.shields.io/pypi/v/contenttype?color=blue)](https://pypi.org/project/contenttype/)
 
 ## Usage
 
